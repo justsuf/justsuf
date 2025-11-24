@@ -1,16 +1,15 @@
 ## Hi there 👋
+I'm justsuf, I am a software student in The Netherlands
 
-<!--
-**justsuf/justsuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I mostly do school project and some hobbying.
 
-Here are some ideas to get you started:
+If I have a fun school project/hobby project, there is a high chances that I'll build it and upload it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main languages are python, javascript,html,css and learing php atm.
+
+Fun facts:
+
+I have a dog
+I don't like coffee and love thea
+initial D is my favorite anime
+Habbies:gaming/simracing, anime, building things for my hobbys.
