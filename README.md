@@ -1,15 +1,28 @@
 ## Hi there 👋
-I'm justsuf, I am a software student in The Netherlands
 
-I mostly do school project and some hobbying.
+I'm justsuf, a software student from The Netherlands.
 
-If I have a fun school project/hobby project, there is a high chances that I'll build it and upload it.
+I mainly work on school projects, but I also like to experiment with personal hobby projects.
+Whenever I create something interesting, there's a good chance I’ll build it and upload it.
 
-My main languages are python, javascript,html,css and learing php atm.
+🧠 Skills
 
-Fun facts:
+My main programming languages are:
 
-I have a dog
-I don't like coffee and love thea
-initial D is my favorite anime
-Habbies:gaming/simracing, anime, building things for my hobbys.
+Python
+
+JavaScript
+
+HTML & CSS
+
+Currently learning PHP
+
+🎉 Fun Facts
+
+I have a dog 🐶
+
+I don’t like coffee, but I love tea ☕
+
+Initial D is my favorite anime
+
+My hobbies include gaming, sim racing, watching anime, and building things related to my hobbies
