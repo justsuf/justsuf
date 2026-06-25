@@ -16,4 +16,5 @@ JavaScript
 HTML5 & CSS
 
 PHP
+
 and currently learing laravel
