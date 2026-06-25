@@ -13,16 +13,7 @@ Python
 
 JavaScript
 
-HTML & CSS
+HTML5 & CSS
 
-Currently learning PHP
-
-🎉 Fun Facts
-
-I have a dog 🐶
-
-I don’t like coffee, but I love tea ☕
-
-Initial D is my favorite anime
-
-My hobbies include gaming, sim racing, watching anime, and building things related to my hobbies
+PHP
+and currently learing laravel
