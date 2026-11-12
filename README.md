@@ -14,5 +14,7 @@ Most of my work comes from school projects, but I also love experimenting with p
 
 ## 📊 GitHub Stats
 
-![justsuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=justsuf&show_icons=true&theme=github_dark&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justsuf&layout=compact&theme=github_dark&hide_border=true)
+![justsuf's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=justsuf&theme=github_dark)
+![Most used languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=justsuf&theme=github_dark)
+
+![GitHub streak](https://streak-stats.demolab.com?user=justsuf&theme=github-dark-blue&hide_border=true)
