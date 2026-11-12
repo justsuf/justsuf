@@ -1,4 +1,4 @@
-# Hi there, I'm justsuf 👋
+# Hi there, I'm justsuf/Jufix12 👋
 
 I'm a software development student from the Netherlands 🇳🇱
 
